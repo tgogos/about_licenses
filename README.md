@@ -32,3 +32,8 @@ from Wikipedia:
 
 from: opensource.org
 >Most copyleft licenses are Open Source, but not all Open Source licenses are copyleft. When an Open Source license is not copyleft, that means software released under that license can be used as part of programs distributed under other licenses, including proprietary (non-open-source) licenses. For example, the BSD license is a non-copyleft Open Source license. Such licenses are usually called either "non-copyleft" or "permissive" open source licenses
+
+## How can I determine if two open source licenses are compatible with each other?
+source: [opensource.stackexchange.com](https://opensource.stackexchange.com/questions/1/how-can-i-determine-if-two-open-source-licenses-are-compatible-with-each-other)
+
+![floss-license-slide-image.png](/floss-license-slide-image.png)
