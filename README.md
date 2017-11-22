@@ -33,6 +33,14 @@ from Wikipedia:
 from: opensource.org
 >Most copyleft licenses are Open Source, but not all Open Source licenses are copyleft. When an Open Source license is not copyleft, that means software released under that license can be used as part of programs distributed under other licenses, including proprietary (non-open-source) licenses. For example, the BSD license is a non-copyleft Open Source license. Such licenses are usually called either "non-copyleft" or "permissive" open source licenses
 
+
+## Some terms...
+
+ - **Intellectual property rights (IPRs)** are the rights granted to the creators of IP, and include trademarks, *copyright*, patents, industrial design rights, and in some jurisdictions trade secrets. Artistic works including music and literature, as well as discoveries, inventions, words, phrases, symbols, and designs can all be protected as intellectual property.
+ - **Copyright** is a legal right created by the law of a country that grants the creator of an original work exclusive rights for its *use* and *distribution*. This is usually only for a limited time.
+ - [What's the difference between Copyright and Licensing?](https://opensource.stackexchange.com/questions/297/whats-the-difference-between-copyright-and-licensing) **Copyright** is the legal term used to declare and prove who owns the intellectual property (the code, text, etc.). **Licensing** is the legal term used to describe the terms under which people are allowed to use the copyrighted material.
+
+
 ## No-license, but source code is public on Github
 Short answer: **all rights are reserved**. See:
  - [Is my code FLOSS just because it is published it on GitHub?](https://opensource.stackexchange.com/questions/1150/is-my-code-floss-just-because-it-is-published-it-on-github)
