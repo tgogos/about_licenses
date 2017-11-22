@@ -79,3 +79,7 @@ The following print-screens are from the official github repositories and includ
 
 ### Linux
 ![GNU-GPLv2-linux.jpg](GNU-GPLv2-linux.jpg)
+
+## Appendix
+image from [choosealicense.com/appendix/](https://choosealicense.com/appendix/):
+![choosealicense_appendix.jpg](choosealicense_appendix.jpg)
