@@ -14,7 +14,7 @@ basic information about open-source, well-known, widely used licenses etc...
 
 ## Choose a license:
  - I want it simple and permissive: **MIT**
- - I’m concerned about patents: **Apache License 2.0**
+ - I'm concerned about patents: **Apache License 2.0**
  - I care about sharing improvements: **GNU GPLv3**
 
 **MIT:** permissive license that is short and to the point. It lets people do anything they want with your code as long as they provide attribution back to you and don’t hold you liable. Examples: [jQuery](https://github.com/jquery/jquery/blob/master/LICENSE.txt), [.NET Core](https://github.com/dotnet/corefx/blob/master/LICENSE.TXT), [Rails](https://github.com/rails/rails/blob/master/activerecord/MIT-LICENSE), [Twitter Bootstrap](https://github.com/twbs/bootstrap/blob/v4-dev/LICENSE)
@@ -54,6 +54,7 @@ from: opensource.org
 
 ## No-license, but source code is public on Github
 Short answer: **all rights are reserved**. See:
+
  - [Is my code FLOSS just because it is published it on GitHub?](https://opensource.stackexchange.com/questions/1150/is-my-code-floss-just-because-it-is-published-it-on-github)
  - [What can I assume if a publicly published project has no license?](https://opensource.stackexchange.com/questions/1720/what-can-i-assume-if-a-publicly-published-project-has-no-license)
 
