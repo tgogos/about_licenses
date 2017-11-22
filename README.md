@@ -68,7 +68,7 @@ source: [opensource.stackexchange.com](https://opensource.stackexchange.com/ques
 
 
 
-## examples from Github repos
+## Examples from Github repos
 The following print-screens are from the official github repositories and include a short description of each license, together with their `Permissions`, `Limitations` and `Conditions` sections.
 
 ### Angular
