@@ -8,6 +8,9 @@ basic information about open-source, well-known, widely used licenses etc...
  - [choosealicense.com/](https://choosealicense.com/)
  - [opensource.org/licenses/category](https://opensource.org/licenses/category)
  - [opensource.org/faq](https://opensource.org/faq)
+ - [License compatibility](https://en.wikipedia.org/wiki/License_compatibility)
+ - [Comparison of free and open-source software licenses](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses)
+ - [European Union Public Licence](https://en.wikipedia.org/wiki/European_Union_Public_Licence)
 
 
 
